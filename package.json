@@ -49,7 +49,7 @@
 		"eslint-plugin-svelte3": "^4.0.0",
 		"ethers": "5.7.2",
 		"focus-svelte": "^0.3.4",
-		"hashids": "^2.2.10",
+		"hashids": "^2.3.0",
 		"js-cookie": "^3.0.1",
 		"lodash-es": "^4.17.21",
 		"postcss": "^8.4.21",
