@@ -27,7 +27,7 @@
 		"@types/autosize": "^4.0.1",
 		"@types/cookie": "^0.5.1",
 		"@types/eslint": "^8.21.1",
-		"@types/js-cookie": "^3.0.2",
+		"@types/js-cookie": "^3.0.3",
 		"@types/lodash-es": "^4.17.6",
 		"@types/prettier": "^2.7.2",
 		"@types/qrcode": "^1.5.0",
